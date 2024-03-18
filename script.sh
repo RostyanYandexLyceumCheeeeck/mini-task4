@@ -1,4 +1,4 @@
 #!/bin/bash
-# Bad 0
+# Bad 1
 exit 1
 
